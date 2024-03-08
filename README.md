@@ -1,4 +1,4 @@
-# COVID-19 scRNA sequencing samples
+# scRNA-seq Analysis of Lethal COVID-19 Lung Tissue
 ## Introduction
 This project aims to analyze scRNA-seq data to gain insights into the cellular and molecular changes associated with severe SARS-CoV-2 infection and respiratory failure. By studying the lung tissue of individuals who died of COVID-19, we aim to understand the host response at the tissue level and uncover potential therapeutic targets.
 ## Objective
